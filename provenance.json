@@ -1,0 +1,24 @@
+{
+  "format": 1,
+  "application": "Original Community-specific implementation; no private Git history or vehicle captures included.",
+  "third_party": [
+    {
+      "path": "android/gradlew",
+      "sha256": "fb68debc1b1acf8ec55dc0d5e5495e1dedd0bd6b61f304bee61613eeb2bd9b92",
+      "upstream": "https://github.com/gradle/gradle/tree/v9.1.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "path": "android/gradlew.bat",
+      "sha256": "fedad02c18e266ec094995a5751b7fe1eb6e74f66bf75db64fae2e50eb22c234",
+      "upstream": "https://github.com/gradle/gradle/tree/v9.1.0",
+      "license": "Apache-2.0"
+    },
+    {
+      "path": "android/gradle/wrapper/gradle-wrapper.jar",
+      "sha256": "76805e32c009c0cf0dd5d206bddc9fb22ea42e84db904b764f3047de095493f3",
+      "upstream": "https://github.com/gradle/gradle/tree/v9.1.0",
+      "license": "Apache-2.0"
+    }
+  ]
+}

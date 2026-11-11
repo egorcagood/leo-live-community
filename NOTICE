@@ -1,0 +1,9 @@
+LEO Live Community
+A standalone local OBD logging and synthetic demo application.
+
+Project code is distributed under Apache License 2.0. Third-party Gradle wrapper files retain
+their original copyright and license notices. See THIRD_PARTY_NOTICES.md.
+
+LEO Live Community is not affiliated with or endorsed by vehicle manufacturers,
+adapter manufacturers, Google, Gradle or AI providers. Product names identify
+compatibility targets, not certification.
